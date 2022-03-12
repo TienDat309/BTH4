@@ -1,0 +1,16 @@
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\obj\Debug\NguyenTienDat_TH4.csproj.AssemblyReference.cache
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\obj\Debug\NguyenTienDat_TH4.csproj.CoreCompileInputs.cache
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\NUnit3.TestAdapter.dll
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\NUnit3.TestAdapter.pdb
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\nunit.engine.dll
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\nunit.engine.api.dll
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\nunit.engine.core.dll
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\testcentric.engine.metadata.dll
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\NguyenTienDat_TH4.dll
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\NguyenTienDat_TH4.pdb
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\nunit.framework.dll
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\WebDriver.dll
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\bin\Debug\nunit.framework.xml
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\obj\Debug\NguyenTienDat_TH4.csproj.CopyComplete
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\obj\Debug\NguyenTienDat_TH4.dll
+D:\C#\NguyenTienDat_TH4\NguyenTienDat_TH4\obj\Debug\NguyenTienDat_TH4.pdb
